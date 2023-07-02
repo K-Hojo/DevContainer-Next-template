@@ -1,5 +1,5 @@
 # DevContainer-Next-template
-This is a template repository for Node.js projects developing in docker-in-docker Dev Container environments.
+This is a template repository for Next.js projects developing in docker-in-docker Dev Container environments.
 
 ## usage
 ### Create your repository from this template
@@ -11,10 +11,10 @@ This is a template repository for Node.js projects developing in docker-in-docke
 6. Clone the remote repository to your local one.
 
 ### Open your repository in Dev Container environment
-1. Open it with VSCode.
+1. Open the local repository with VSCode.
 2. Install "Dev Containers" plugin to your VSCode if you don't have it yet.
 3. Edit devcontainer.json. For example, rename: `"name": "Existing Docker Compose (Extend)"`.
-4. Press F1 key and choose "Dev Container: Reopen in Container".
+4. Press F1 key and choose "Dev Containers: Reopen in Container".
 5. Please wait: starting container...
 
 ### Create your Next.js app
